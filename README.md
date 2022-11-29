@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+<img width="779" alt="Ekran Resmi 2022-11-29 18 15 17" src="https://user-images.githubusercontent.com/72785742/204568074-7c4e1666-c963-4c89-8768-f29034378db1.png">
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
